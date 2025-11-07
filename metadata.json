@@ -1,0 +1,5 @@
+{
+  "name": "Analizador de Casos de Derecho Penal",
+  "description": "Una aplicación web para analizar casos de derecho penal español desde la perspectiva de un estudiante universitario, utilizando la API de Gemini para generar análisis detallados y estructurados.",
+  "requestFramePermissions": []
+}
